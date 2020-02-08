@@ -8,7 +8,7 @@ This project is broken down into three main notebooks:
 
 - Notebook 1: Data Exploration
 - Notebook 2: Feature Engineering
-- Notebook 3: Train and Deploy Your Model in SageMaker
+- Notebook 3: Training and Deploying Model in SageMaker
 
 
 ## Software and Libraries
